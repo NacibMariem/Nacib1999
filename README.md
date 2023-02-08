@@ -56,7 +56,7 @@ Proficient in web and desktop development environments. Adept at using HTML5, Ja
 ### Badges
 
 <b>My GitHub Stats</b>
-<img align="right" alt="coding_is_live" width="400" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
+<img align="right" alt="coding_is_live" width="350" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
 
 <a href="http://www.github.com/Nacib1999"><img src="https://github-readme-stats.vercel.app/api?username=Nacib1999&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Nacib1999's GitHub stats" /></a>
 
