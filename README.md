@@ -1,5 +1,5 @@
-![image](https://user-images.githubusercontent.com/67750731/217400366-8500f468-5fcc-4c03-989d-3ee2baf13c9e.png)
-
+<!-- ![image](https://user-images.githubusercontent.com/67750731/217400366-8500f468-5fcc-4c03-989d-3ee2baf13c9e.png) -->
+![](https://wallpaperaccess.com/full/3414990.jpg)
 <!-- ![logo](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg) -->
 Hi ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mariem Nacib
 ====================================================================================================================================
@@ -56,7 +56,7 @@ Proficient in web and desktop development environments. Adept at using HTML5, Ja
 ### Badges
 
 <b>My GitHub Stats</b>
-<img align="right" alt="coding_is_live" width="350" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
+<img align="right" alt="coding_is_live" width="340" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
 
 <a href="http://www.github.com/Nacib1999"><img src="https://github-readme-stats.vercel.app/api?username=Nacib1999&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Nacib1999's GitHub stats" /></a>
 
