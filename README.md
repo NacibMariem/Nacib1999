@@ -4,14 +4,15 @@ Hi ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 IT engineering student 👨‍💻 
 ----------------------
-<img align="right" alt="coding_is_live" width="400" src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966" >
+<img align="right" alt="coding_is_live" width="400" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" >
+
 Proficient in web and desktop development environments. Adept at using HTML5, JavaScript and other programming languages to produce clean code. Well-organized and collaborative team player with strong communication and analytical abilities. Motivated student completing an Engineering degree. Experienced in web development. Supports team administrative, project coordination, design and programming needs. Fluent in Angular. School projects included building apps, optimizing programs and validating code.
 
 * 🌍  I'm based in Tunis
 * ✉️  You can contact me at [mariem.nacib@esprit.tn](mailto:mariem.nacib@esprit.tn)
 * 🧠  I'm learning REACT / NODE.js / Python / .Net
 * 🤝  I'm open to collaborating on Web development applications refer to software programs used to create and maintain websites
-* Fun Fact : <p align="center" /> ![](https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069) </p>
+* 😂 Fun Fact : <p align="center" /> ![](https://camo.githubusercontent.com/727b46e1d3fa1dc9460d1f7a8c4f4fb8a5523029a3389abf818bc1f95430b4ac/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069) </p>
 
 
 ### Skills
@@ -53,6 +54,7 @@ Proficient in web and desktop development environments. Adept at using HTML5, Ja
 ### Badges
 
 <b>My GitHub Stats</b>
+<img align="right" alt="coding_is_live" width="400" src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966" >
 
 <a href="http://www.github.com/Nacib1999"><img src="https://github-readme-stats.vercel.app/api?username=Nacib1999&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Nacib1999's GitHub stats" /></a>
 
