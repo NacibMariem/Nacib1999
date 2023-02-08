@@ -6,7 +6,7 @@ Hi ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 IT engineering student 👨‍💻 
 ----------------------
-<img align="right" alt="coding_is_live" width="400" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" >
+<img align="right" alt="coding_is_live" width="400" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" >
 
 Proficient in web and desktop development environments. Adept at using HTML5, JavaScript and other programming languages to produce clean code. Well-organized and collaborative team player with strong communication and analytical abilities. Motivated student completing an Engineering degree. Experienced in web development. Supports team administrative, project coordination, design and programming needs. Fluent in Angular. School projects included building apps, optimizing programs and validating code.
 
@@ -56,7 +56,7 @@ Proficient in web and desktop development environments. Adept at using HTML5, Ja
 ### Badges
 
 <b>My GitHub Stats</b>
-<img align="right" alt="coding_is_live" width="340" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
+<img align="right" alt="coding_is_live" width="340" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" />
 
 <a href="http://www.github.com/Nacib1999"><img src="https://github-readme-stats.vercel.app/api?username=Nacib1999&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Nacib1999's GitHub stats" /></a>
 
