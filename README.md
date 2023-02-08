@@ -4,13 +4,14 @@ Hi ![hi](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 IT engineering student
 ----------------------
-
+<img align="right" alt="coding_is_live" width="400" src="https://camo.githubusercontent.com/f6706dfd5a13d4c3690845f968735da9c48b38e4d40ef00f3473bf9affc52061/68747470733a2f2f7777772e74656368626162626c652e7a6f6e652f636f6e74656e742f696d616765732f323032312f30372f34363230372d70726f6772616d6d65722d312e676966" >
 Proficient in web and desktop development environments. Adept at using HTML5, JavaScript and other programming languages to produce clean code. Well-organized and collaborative team player with strong communication and analytical abilities. Motivated student completing an Engineering degree. Experienced in web development. Supports team administrative, project coordination, design and programming needs. Fluent in Angular. School projects included building apps, optimizing programs and validating code.
 
 * 🌍  I'm based in Tunis
 * ✉️  You can contact me at [mariem.nacib@esprit.tn](mailto:mariem.nacib@esprit.tn)
 * 🧠  I'm learning REACT / NODE.js / Python / .Net
 * 🤝  I'm open to collaborating on Web development applications refer to software programs used to create and maintain websites
+
 
 ### Skills
 
