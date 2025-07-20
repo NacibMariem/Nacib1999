@@ -52,17 +52,17 @@ Proficient in web and desktop development environments. Adept at using HTML5, Ja
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Glitch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Nacib1999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mariem-nacib/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Glitch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/NacibMariem" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mariem-nacib/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 <img align="right" alt="coding_is_live" width="340" src="http://31.media.tumblr.com/17fea920ff36ef4f5b877d5216a7aad9/tumblr_mo9xje8zZ41qcbiufo1_1280.gif" />
 
-<a href="http://www.github.com/Nacib1999"><img src="https://github-readme-stats.vercel.app/api?username=Nacib1999&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="Nacib1999's GitHub stats" /></a>
+<a href="http://www.github.com/NacibMariem"><img src="https://github-readme-stats.vercel.app/api?username=NacibMariem&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="NacibMariem's GitHub stats" /></a>
 
-<a href="http://www.github.com/Nacib1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nacib1999&stroke=a855f7&background=000000&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<a href="http://www.github.com/NacibMariem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NacibMariem&stroke=a855f7&background=000000&ring=ef4444&fire=ef4444&currStreakNum=a855f7&currStreakLabel=ef4444&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
 
-<a href="http://www.github.com/Nacib1999"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Nacib1999&bg_color=000000&color=a855f7&line=22c55e&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/NacibMariem"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NacibMariem&bg_color=000000&color=a855f7&line=22c55e&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/Nacib1999" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nacib1999&langs_count=10&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/NacibMariem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NacibMariem&langs_count=10&title_color=ef4444&text_color=a855f7&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
